@@ -49,4 +49,4 @@ Production AI systems on Claude, OpenAI, and local models.
 Available for AI automation contracts — reach out directly.
 
 - X — [@adrian_bnt](https://x.com/adrian_bnt)
-- Email — adbnt@pm.me
+- Email — julian.redi@proton.me
