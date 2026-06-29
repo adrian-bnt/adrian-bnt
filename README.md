@@ -19,7 +19,7 @@ Production AI systems on Claude, OpenAI, and local models.
 | [claude-usage-widget-tiny](https://github.com/adrian-bnt/claude-usage-widget-tiny) | Cross-platform Electron desktop widget for live Claude.ai usage tracking | Public |
 | OpenClaw XPipeline | Autonomous X/Twitter content pipeline — voice cloning, anti-detection humanization, Notion Kanban gating | Private — available on request |
 | Aramaki Forge | 24/7 autonomous developer agent — git-worktree isolation, smart retry, self-generating task queues | Private — available on request |
-| ContinuousBot | Production revenue bot — 400+ commits, runs continuously | Private (commercial) |
+| ContinuousBot | Production bot — 400+ commits, runs continuously | Private (commercial) |
 
 ### Stack
 
