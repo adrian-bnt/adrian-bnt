@@ -43,10 +43,3 @@ Production AI systems on Claude, OpenAI, and local models.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=adrian-bnt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-bnt&layout=compact&hide_border=true&count_private=true&theme=dark)
-
-### Working with me
-
-Available for AI automation contracts — reach out directly.
-
-- X — [@adrian_bnt](https://x.com/adrian_bnt)
-- Email — julian.redi@proton.me
