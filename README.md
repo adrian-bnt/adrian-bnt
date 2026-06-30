@@ -1,25 +1,24 @@
-## Adrian — AI Automation 
+## Adrian: AI Automation Engineer
 
-I build autonomous agents and content pipelines for solo operators and small teams.
-Production AI systems on Claude, OpenAI, and local models.
+I build autonomous agents, MCP tooling, and automation pipelines for solo operators and small teams. Production AI systems on Claude, OpenAI, and local models.
 
 ### What I build
 
-- **Multi-agent systems** — Orchestrated Claude/Codex agents with git-worktree isolation, smart retry, self-generating task queues
-- **Content automation pipelines** — End-to-end research → draft → humanize → schedule, with human-in-the-loop review gates
-- **Revenue bots & trading systems** — Production-grade Telegram and X automation, 24/7 on Tailscale-secured infra
-- **AI-enriched data tools** — Bookmark managers, knowledge bases, and dashboards with summarization, tagging, and full-text search
-- **MCP servers & Claude integrations** — Custom tooling extending Claude Code into bespoke workflows
+- **Multi-agent systems:** orchestrated Claude/Codex agents with git-worktree isolation, smart retry, and self-generating task queues
+- **MCP servers & Claude integrations:** custom tooling and a shared gateway that extend Claude Code into bespoke workflows
+- **Automation pipelines:** end-to-end research, draft, review, and schedule flows with human-in-the-loop gates
+- **AI-enriched data tools:** bookmark managers, knowledge bases, and dashboards with summarization, tagging, and full-text search
+- **Resilient automation services:** 24/7 Telegram and X automation on Tailscale-secured infrastructure, with retries and monitoring
 
 ### Featured work
 
 | Project | What | Status |
 |---|---|---|
-| [x-dex](https://github.com/adrian-bnt/x-dex) | AI-enriched X/Twitter bookmark manager — multi-format import, Anthropic/OpenAI/Ollama summarization, web dashboard | Public |
-| [claude-usage-widget-tiny](https://github.com/adrian-bnt/claude-usage-widget-tiny) | Cross-platform Electron desktop widget for live Claude.ai usage tracking | Public |
-| OpenClaw XPipeline | Autonomous X/Twitter content pipeline — voice cloning, anti-detection humanization, Notion Kanban gating | Private — available on request |
-| Aramaki Forge | 24/7 autonomous developer agent — git-worktree isolation, smart retry, self-generating task queues | Private — available on request |
-| ContinuousBot | Production bot — 400+ commits, runs continuously | Private (commercial) |
+| [x-dex](https://github.com/adrian-bnt/x-dex) | AI-enriched X/Twitter bookmark manager: multi-format import, Anthropic/OpenAI/Ollama summarization, web dashboard | Public |
+| [claude-usage-widget-tiny](https://github.com/adrian-bnt/claude-usage-widget-tiny) | A slimmed-down fork of a community Claude.ai usage widget | Public (fork) |
+| OpenClaw XPipeline | Autonomous content pipeline with multi-stage review and Notion Kanban gating | Private, available on request |
+| Aramaki Forge | 24/7 autonomous developer agent: git-worktree isolation, smart retry, self-generating task queues | Private, available on request |
+| ContinuousBot | Production automation service: 400+ commits, runs continuously | Private (commercial) |
 
 ### Stack
 
@@ -35,9 +34,9 @@ Production AI systems on Claude, OpenAI, and local models.
 
 ### Currently building
 
-- **OpenClaw quad-agent system** — four specialized agents on a shared MCP gateway, each with isolated state and Telegram control
-- **XPipeline v2** — self-critique loop with engagement-metric-driven persona evolution
-- **MCP catalog** — internal registry of custom MCP servers for personal infra automation
+- **OpenClaw quad-agent system:** four specialized agents on a shared MCP gateway, each with isolated state and Telegram control
+- **XPipeline v2:** a self-critique loop that iterates on output quality
+- **MCP catalog:** an internal registry of custom MCP servers for personal infrastructure automation
 
 ### Activity
 
