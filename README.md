@@ -1,4 +1,4 @@
-## Adrian — AI Automation Engineer
+## Adrian — AI Automation 
 
 I build autonomous agents and content pipelines for solo operators and small teams.
 Production AI systems on Claude, OpenAI, and local models.
